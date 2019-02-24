@@ -1,2 +1,2 @@
 # simplePaint
-simple jquery drawing app
+## coming soon
