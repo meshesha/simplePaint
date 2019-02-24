@@ -1,2 +1,2 @@
 # simplePaint
-## coming soon
+## coming soon ...
